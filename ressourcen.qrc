@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/" lang="Deutsch">
+        <file>icon/about.png</file>
+        <file>icon/berechnen.png</file>
+        <file>icon/ende.png</file>
+        <file>icon/leichtes-uebergewicht.png</file>
+        <file>icon/leichtes-untergewicht.png</file>
+        <file>icon/normgewicht.png</file>
+        <file>icon/reset.png</file>
+        <file>icon/uebergewicht.png</file>
+        <file>icon/untergewicht.png</file>
+        <file>icon/daumen-leichtes-uebergewicht.png</file>
+        <file>icon/daumen-leichtes-untergewicht.png</file>
+        <file>icon/daumen-normgewicht.png</file>
+        <file>icon/daumen-uebergewicht.png</file>
+        <file>icon/personenwaage.png</file>
+    </qresource>
+</RCC>
